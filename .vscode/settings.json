@@ -1,8 +1,12 @@
 {
     "cSpell.words": [
         "cognicraft",
+        "FAISS",
+        "groq",
         "llms",
         "pycache",
+        "pypdf",
+        "qwen",
         "streamlit",
         "venv"
     ]
